@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 **Problem Statement ID:** 2024273  
 **Theme:** Blockchain & Cybersecurity  
@@ -32,7 +32,7 @@ Scrypt addresses this attribution gap.
 
 ---
 
-# 🔐 What is Scrypt?
+#  What is Scrypt?
 
 **Scrypt** is an offline, post-quantum document provenance system that connects:
 
@@ -46,7 +46,7 @@ If a copy of the document is later recovered — including a visual artifact suc
 
 ---
 
-# 🧠 Core Idea
+# Core Idea
 
 ```text
                     ORIGINAL DOCUMENT
